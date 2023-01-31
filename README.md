@@ -5,7 +5,7 @@ The project is LIVE [here.](https://lively-hamster-aca1fb.netlify.app/)
   
 
    
-To run the project run 
+To run the project, run 
 ```
 npm install
 ```
